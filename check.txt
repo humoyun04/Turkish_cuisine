@@ -1,0 +1,10 @@
+
+		Joy: 2,
+		Ism: we,
+		Taom: Baklava - Narx: $6,
+		Salat: Kisir - Narx: $3,
+		Ichimlik: Kofe - Narx: $0.5,
+		Desert: Paxlava - Narx: $4.
+
+		Mr we sizdan umumiy xisob = $13.5 bo'ldi.
+
